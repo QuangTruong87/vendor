@@ -1,0 +1,22 @@
+{
+    "name": "foostart/package-english",
+    "description": "Practice English",
+    "keywords": [
+        "foostart",
+        "laravel 8 package english"
+    ],
+    "authors": [
+        {
+            "name": "FooStart",
+            "email": "foostart.com@gmail.com",
+            "homepage": "http://foostart.com"
+        }
+    ],
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Foostart\\English\\": "/"
+        }
+    },
+    "minimum-stability": "dev"
+}
